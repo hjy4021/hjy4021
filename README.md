@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=220&section=header&text=HI&fontColor=ffffontSize=50&&fontAlignY=38&animation=fadeIn)
-
+<p align="center">
+황재영 이라 합니다.<br />
+따로 적을건 없고.<br>
+그냥 지나가주세요.
+</p>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
 <!--
