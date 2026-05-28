@@ -4,6 +4,7 @@
 따로 적을건 없고.<br>
 그냥 지나가주세요.
 </p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
 <!--
